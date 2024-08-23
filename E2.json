@@ -1,0 +1,11 @@
+{
+  "attribute": "groups",
+  "description": null,
+  "privileged": false,
+  "cloudGoverned": false,
+  "requestable": false,
+  "attributes": {
+
+  },
+  "name": "Test Entitlement 1 (group)"
+}
